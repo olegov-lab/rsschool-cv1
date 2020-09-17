@@ -23,7 +23,7 @@ I learn quickly and learn new things. The main thing is programming.
 ```
 void main (void)
 {
-    cout <<"Hello World>!>>;
+    cout <<"Hello World>!;
 }
 
 ```
@@ -31,3 +31,17 @@ void main (void)
 ## Experience
 
 Himself
+
+## Education
+
+2019 - 2020
+
+TRIZ - Minsk (BL)
+
+2007 - 2012
+
+UGATU - Ufa (Russia)
+
+## English language
+
+Level A2
