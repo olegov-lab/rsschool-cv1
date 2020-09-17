@@ -7,3 +7,27 @@
 e-mail: [olego8760@gmail.com](https://olego8760@.gmail.com)
 
 github: [@olegov-lab](https://github.com/olegov-lab)
+
+## Summary
+
+I learn quickly and learn new things. The main thing is programming.
+
+## Skills
+
+- C++
+- Pascal
+- TRIZ
+
+## Code Example
+
+```
+void main (void)
+{
+    cout <<"Hello World>!>>;
+}
+
+```
+
+## Experience
+
+Himself
