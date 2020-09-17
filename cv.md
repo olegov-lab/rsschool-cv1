@@ -23,7 +23,7 @@ I learn quickly and learn new things. The main thing is programming.
 ```
 void main (void)
 {
-    cout <<"Hello World>!;
+    cout <<"Hello World!;
 }
 
 ```
